@@ -1,11 +1,6 @@
 # Back-end
 
   
-
-Este é o repositório do meu projeto Flask incrível. Este README fornece instruções sobre como configurar e usar o ambiente virtual (venv) para gerenciar as dependências do projeto.
-
-  
-
 ## Configurando o Ambiente Virtual
 
   
