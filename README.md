@@ -7,7 +7,6 @@ Bem-vindo ao projeto de Grafo de Conhecimento de Livros! Este projeto tem como o
 
 - [Visão Geral](#visão-geral)
 - [Instalação](#Instalação)
-- [Uso](#uso)
 - [Contribuições](#contribuições)
 
 ## Visão Geral
@@ -47,4 +46,5 @@ Aceitamos contribuições para o projeto de Grafo de Conhecimento de Livros. Se 
 4. Envie suas alterações para o seu fork:
 
 `git push origin feature/sua-funcionalidade`
+
 Crie uma solicitação pull para mesclar suas alterações no repositório principal.
